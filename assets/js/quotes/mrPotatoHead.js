@@ -1,6 +1,6 @@
-const mrPotatoHeadQuotes = {
-    "hello": "Hi, I'm Mr. Potato Head!",
-    "bye": "Bye, it's been nice talking to you!"
-}
+export const mrPotatoHeadQuotes = {
+    hello: "Hi, I'm Mr. Potato Head!",
+    bye: "Bye, it's been nice talking to you!",
+};
 
-export const hello = "world"
+//export const hello = "world"

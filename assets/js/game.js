@@ -1,8 +1,8 @@
-import { getIndex } from "utilities.js";
-import { mrPotatoeHead } from ".quotes/mrPotatoeHead.js";
+import { getIndex } from "./utilities.js";
+import { mrPotatoHeadQuotes } from "./quotes/mrPotatoHead.js";
 
-import mrsPototoeHeadQuotes from "./quotes/mrPotatoHead.js";
-import * as hello from "./quotes/mrsPotatoHead.js";
+import mrsPotatoHeadQuotes from "./quotes/mrPotatoHead.js";
+//import * as hello from "./quotes/mrsPotatoHead.js";
 
 export default class Game {
 
